@@ -11,4 +11,4 @@ The background of the project is the following:<br>
 
 This project was completed using the Scrum framework for task organization and management.
 
-More informations and documentations are available [here](https://www.fer.unizg.hr/rasip/dsd/projects/cycling_advocacy)
+More information and documentations are available [here](https://www.fer.unizg.hr/rasip/dsd/projects/cycling_advocacy)
